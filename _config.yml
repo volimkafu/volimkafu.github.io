@@ -33,9 +33,9 @@ exclude: ["vendor", "README.md", "node_modules", "gulpfile.js", "package.json"]
 
 # Lists
 
-tag_items: 20     # Applies to categories and tags lists
-recent_items: 5  # Applies to recent posts, apps lists
-related_items: 5  # Applies to related posts and apps lists
+tag_items: 10     # Applies to categories and tags lists
+recent_items: 4 # Applies to recent posts, apps lists
+related_items: 4  # Applies to related posts and apps lists
 
 # Layout
 
