@@ -23,9 +23,9 @@
                 {{ page.content | number_of_words | minus:180 }}
               {% endcapture %}
               {% if content_length contains '-' %}
-               • <i class="icon clock"></i> < 1 min to read
+               • <i class="icon clock"></i> < 1 min čitanja
               {% else %}
-               • <i class="icon clock"></i> ~ <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> min to read
+               • <i class="icon clock"></i> ~ <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> min čitanja
               {% endif %}
             {% endif %}
 
