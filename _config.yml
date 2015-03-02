@@ -68,8 +68,8 @@ mapbox: "pk.eyJ1Ijoidm9saW1rYWZ1IiwiYSI6Im1laWRMU1UifQ.jxHRW1L0yZI1rk-ec9hXXA"
 
 facebook_app: "892030024171405" # https://developers.facebook.com/
 
-mailchimp_u: "cf72d9276397b3175b874eb39" # Mailchimp u=unique identification
-mailchimp_id: "3a51637dcc" # Mailchip id
+# mailchimp_u: "cf72d9276397b3175b874eb39" # Mailchimp u=unique identification
+# mailchimp_id: "3a51637dcc" # Mailchip id
 
 addthis_pubid: "ra-54f3cb5c0a7ccafe" # Get your pubid at https://www.addthis.com/dashboard
 
