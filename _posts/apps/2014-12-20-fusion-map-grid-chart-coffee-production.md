@@ -1,8 +1,8 @@
 ---
 # App Options
 layout: fusion
-title: Fusion Map Grid Chart - Coffee Production
-description: Data Map, Grid and Chart Dashboard Displaying Data from Google Fusion Tables
+title: Interaktivna mapa
+description: Interaktivna mapa sa podacima proizvodnje kafe
 category: app
 image: /img/app/fusion-map-grid-chart.png
 # Grid Options
@@ -14,12 +14,7 @@ chart: bar
 compare: "Coffee Production"
 chart_height: 1200
 ---
-This is a coffee production sample app created using Fusion Tables. 
-Filter on part or full country name, or common text in multiple countries to update custom dashboard chart.
-
-This app example adds embed iframe from Fusion Tables for visualizing the map representing the data.
-Only change required is width/height values to match page theme. 
-Suggested 100% width for responsive view. Height to adjust to map data.
+Interaktivna mapa sa podacima proizvodnje kafe po državi.
 
 <iframe width="100%" height="400" scrolling="no" frameborder="no" 
 src="https://www.google.com/fusiontables/embedviz?q=select+col11+from+12Ky51FcTdAPYsnP42k3N4AtEB8EcxxfLMJ5rAnU&amp;viz=MAP&amp;h=false&amp;lat=8.769762156504258&amp;lng=91.99385124999992&amp;t=1&amp;z=2&amp;l=col11&amp;y=3&amp;tmplt=4&amp;hml=GEOCODABLE"></iframe>
