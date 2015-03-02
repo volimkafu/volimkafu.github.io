@@ -1,9 +1,9 @@
 ---
 # App Options
 layout: fusion
-title: Fusion Grid Chart - Coffee Production
-description: Data Grid and Chart Dashboard Displaying Data from Google Fusion Tables
-author: Manav Sehgal
+title: Proizvodnja kafe...
+description: U gridu i tablama možete videti podatke
+author: Milos Rujevic
 category: app
 image: /img/app/fusion-grid-chart.png
 # Grid Options
@@ -15,10 +15,5 @@ chart: bar
 compare: "Coffee Production"
 chart_height: 1200
 ---
-This is a coffee production sample app created using Fusion Tables. 
-Filter on part or full country name, or common text in multiple countries to update custom dashboard chart.
-
-This app example adds only three Frontmatter values to Fusion Grid app. 
-Chart type, Horizontal Axis Title to compare values, Custom height of the chart.
 
 {% include fusion-filter-grid.html %}
