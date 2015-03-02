@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: Home
+title: Volim Kafu 
 ---
 
 <div class="ui feature vertical segment">
@@ -9,24 +9,24 @@ title: Home
       <div class="ui three column center aligned stackable divided grid">
         <div class="column">
           <div class="ui icon header">
-            <i class="purple github icon"></i>
-            Free GitHub Hosting
+            <i class="red heart icon"></i>
+            Ukusi
           </div>
-          <p>Free world-class hosting for your website on world's largest open source repository.</p>
+          <p>Volimo kafu, svaki dan uživamo u jednoj šolji (ili više) i uvek istražujemo nove ukuse... Da li si i ti jedan od nas?</p>
         </div>
         <div class="column">
           <div class="ui icon header">
-            <i class="purple code icon"></i>
-            Semantic UI Goodness
+            <i class="purple weixin icon"></i>
+            Kultura Kafe
           </div>
-          <p>Create rich, modern user experience with tags as easy as describing design in English.</p>
+          <p>Da li uživate u ispijanju kafe? Koje se čaše koriste za različite vrste piva? Zanima Vas koja kafa ide uz koju hranu? Sve o kulturi kafe možete naći baš ovde.</p>
         </div>
         <div class="column">
           <div class="ui icon header">
             <i class="purple thumbs up icon"></i>
-            Jekyll Pre-processing 
+            Recepti 
           </div>
-          <p>No server or database to maintain. No plugin hassels. Just focus on your content.</p>
+          <p>Delimo recepte zajedno :) .</p>
         </div>
       </div>
     </div>
@@ -37,22 +37,7 @@ title: Home
   <div class="ui stackable page grid">
     <div class="row">
       <div class="eight wide column">
-        <h3 class="ui inverted header">OpenTheme Helps Re-Imagine Web Design</h3> 
-        <h4 class="ui inverted header">
-        Design a website that <a href="/metrics/">self monitors</a> as it changes!
-        </h4>
-        <h4 class="slim-header-light">
-        Create <a href="/apps/">mobile hybrid apps</a> in just 3 lines of code!
-        </h4>
-        <h4 class="ui inverted header">
-        Author real-time content using <a href="/embeds/">plugin embeds</a>.
-        </h4>
-        <h4 class="slim-header-light">
-        Manage content <a href="{% post_url /blog/2014-11-26-open-cloud-based-workflow-for-designing-your-website %}">100% on Cloud, in Browser</a>.
-        </h4>
-        <h4 class="ui inverted header">
-        Publish <a href="{% post_url /blog/2014-12-2-data-driven-web-apps-using-github %}">data driven docs</a>, without a database.
-        </h4>
+        {% include recent-posts.html %}
       </div>
       <div class="eight wide column">
         {% include feature-post.html %}        
@@ -62,36 +47,6 @@ title: Home
 </div>
 
 
-<div class="ui feature vertical segment">
-  <div class="ui centered page grid">
-    <div class="fourteen wide column">
-      <div class="ui three column center aligned stackable divided grid">
-        <div class="column">
-          <div class="ui icon header">
-            <i class="purple mobile icon"></i>
-            Hybrid Apps
-          </div>
-          <p>Responsive theme supporting multiple devices with one code base. Design once, publish anywhere.</p>
-        </div>
-        <div class="column">
-          <div class="ui icon header">
-            <i class="purple bug icon"></i>
-            Live Tests
-          </div>
-          <p>Travis CI integrated. BrowserSync ready. Lint JS, CSS on build. HTML proofing planned.</p>
-        </div>
-        <div class="column">
-          <div class="ui icon header">
-            <i class="purple rocket icon"></i>
-            Speed Optimized
-          </div>
-          <p>PageSpeed Insights built-in. Images optimized in build. CSS, JS minified. Selective JS includes.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
 <div class="ui inverted vertical segment">
   <div class="ui centered page grid">
     <div class="fourteen wide column">
@@ -99,50 +54,40 @@ title: Home
         <div class="column">
           <a class="ui small blue inverted statistic" href="/apps/">
             <div class="value">
-              <i class="cube icon"></i> {{ site.categories.app | size  }}
+              <i class="cube icon"></i> 7
             </div>
             <p class="label">
-              Single Page Apps
+              Kafa popijeno
             </p>
           </a>
         </div>
         <div class="column">
           <a class="ui small purple inverted statistic pagebar" href="#">
             <div class="value">
-              <i class="content icon"></i> {{ site.pages | size  }}
+              <i class="content icon"></i> {{ site.posts | size  }}
             </div>
             <div class="label">
-              Templates
+              Ukupno Postova
             </div>
           </a>
         </div>
         <div class="column">
           <a class="ui small blue inverted statistic" href="/embeds/">
             <div class=" value">
-              <i class="wizard icon"></i> {{ site.data.embeds | size }}
+              <i class="wizard icon"></i> {{ site.categories.app | size  }}
             </div>
             <div class="label">
-              Reusable Embeds
-            </div>
-          </a>
-        </div>
-        <div class="column">
-          <a class="ui small orange inverted statistic" href="{% post_url /blog/2014-12-15-content-strategy-for-startup-websites %}">
-            <div class="text value">
-              One Minute
-            </div>
-            <div class="label">
-              Content Workflow
+              Recepti za kafu
             </div>
           </a>
         </div>
         <div class="column">
           <a class="ui small blue inverted statistic" href="/category/#theme">
             <div class="value">
-              <i class="student icon"></i> {{ site.categories.theme | size  }}
+              <i class="student icon"></i> {{ site.categories.tutorijal | size  }}
             </div>
             <div class="label">
-              Theme Tutorials
+              Tutorijala
             </div>
           </a>
         </div>
@@ -156,21 +101,21 @@ title: Home
     <div class="row">
       <div class="column">
         <h1 class="center aligned ui header">
-          Browse OpenTheme Content
+          Pregled bloga
         </h1>
       </div>
     </div>
     <div class="row">
       <div class="eight wide column">
 
-        <h3 class="ui header">Tags</h3>
+        <h3 class="ui header">Tagovi</h3>
           {% include site-tags.html %}
 
       </div>
 
       <div class="eight wide column">
 
-        <h3 class="ui header">Categories</h3>
+        <h3 class="ui header">Kategorije</h3>
           {% include site-categories.html %}
 
       </div>
@@ -178,4 +123,3 @@ title: Home
     </div> <!-- /row -->
   </div>
 </div>
-
