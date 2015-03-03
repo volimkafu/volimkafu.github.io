@@ -46,7 +46,7 @@ postbar: true # Show (true) post sidebar or hide (false)
 
 reading_time: true    # Show est. reading time for posts
 facebook: true        # Use facebook features
-comments: disqus      # Switch disqus | facebook | none - comments. facebook = true required for facebook comments
+comments: facebook      # Switch disqus | facebook | none - comments. facebook = true required for facebook comments
 
 # Embeds
 
