@@ -54,10 +54,10 @@ title: Volim Kafu
         <div class="column">
           <a class="ui small blue inverted statistic" href="/apps/">
             <div class="value">
-              <i class="cube icon"></i> 7
+              <i class="cube icon"></i> <span id="kafica-broj"></span>
             </div>
             <p class="label">
-              Kafa popijeno
+              Kafa popijeno mesečno
             </p>
           </a>
         </div>
@@ -123,3 +123,8 @@ title: Volim Kafu
     </div> <!-- /row -->
   </div>
 </div>
+<script>
+function myFunction() {
+    document.getElementById("kafica-broj").innerHTML = Math.random();
+}
+</script>
