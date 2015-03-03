@@ -1,4 +1,4 @@
-{% for post in site.posts reversed %}
+{% for post in site.posts reversed limit:3 %}
     {% if post.tags %}
       {% for tag in post.tags %}
         {% if tag == 'glavni' %}
