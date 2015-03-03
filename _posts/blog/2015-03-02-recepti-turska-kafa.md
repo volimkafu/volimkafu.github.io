@@ -11,9 +11,9 @@ image: /img/blog/kafa-domaca.jpg
 ##Oiginalna turska kafa se kuva u bakarnoj džezvi zvonastog oblika. 
 
 ###Sastojci:
-*Dve kašičice kafe
-*Kašičica šećera
-*Dve šoljice vode
+  * Dve kašičice kafe
+  * Kašičica šećera
+  * Dve šoljice vode
 
 ###Priprema:
 1.  U jednu posudi stavite vodu da proključa
