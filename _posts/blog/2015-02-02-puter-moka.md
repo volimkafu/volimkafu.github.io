@@ -3,7 +3,7 @@ layout: post
 author: Lu Salome
 category: recepti
 title: Puter Moka
-tags: kafa zanimljivo 
+tags: kafa zanimljivo glavni
 image: /img/blog/kafa.png
 ---
 
