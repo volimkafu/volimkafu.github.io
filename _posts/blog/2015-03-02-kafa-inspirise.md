@@ -7,7 +7,7 @@ tags: kafa zanimljivo inspiracija glavni
 image: /img/blog/napoleon-voli-kafu.jpg
 ---
 
-
+#Inspiracija
 
 Kafa je danas jedan od omiljenih napitaka ljudima širom sveta. Neki vole da uživaju u kafi pošto se probude, neki voje da je ispijaju u društvu, neki je piju da bi povećali koncentraciju... Međutim, zanimljivo je da su mnogi velikani gajili ogromnu strast prema kafi; ona im je poslužila kao inspiracija i stimulans za velika dela. Pogledajte imena zbog kojih bi istorija izgledala drugačije da nisu konzumirala ovaj magičan napitak.
 
