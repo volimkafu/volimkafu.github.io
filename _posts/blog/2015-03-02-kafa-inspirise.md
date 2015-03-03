@@ -1,9 +1,9 @@
 ---
 layout: post
 author: Lu Salome
-category: kofein kreativnost
+category: kofein kreativnost 
 title: Kafa – napitak koji je inspirisao mnoge velikane
-tags: kafa zanimljivo inspiracija 
+tags: kafa zanimljivo inspiracija glavna
 image: /img/blog/napoleon-voli-kafu.jpg
 ---
 
