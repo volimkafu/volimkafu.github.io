@@ -3,7 +3,7 @@ layout: post
 author: Lu Salome
 category: kofein
 title: Kofein za dugovečnost
-tags: kafa savet zdravlje glavni
+tags: kafa savet zdravlje
 image: /img/blog/volim-kafu.png
 ---
 
