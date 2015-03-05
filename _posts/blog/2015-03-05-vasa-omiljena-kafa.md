@@ -11,6 +11,7 @@ image: /img/blog/omiljena-kafa.jpg
 
 ###Domaća kafa 
 Vi ste tradicionalista, umereno se ističete u društvu i većina ljudi ima pozitivan utisak o Vama.  Volite jednostavnost i uvek težite zlatnoj sredini. Ukoliko volite kafu u velikoj šolji, skloni ste tračarenju. Ukoliko je pak ispijate u iz manjih šolja, onda ste skloniji hedonizmu.
+
 ###Espreso
 Espreso obično vole ironične i cinične osobe, brzog temperamenta i nemirnog duha. Šarmantni ste, elegantni i često preuzimate ulogu vođe. Ukoliko pijete kratki espreso bez mleka, onda su ove osobine kod Vas dodatno pojačane.
 
