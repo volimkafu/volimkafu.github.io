@@ -17,8 +17,10 @@ Espreso obično vole ironične i cinične osobe, brzog temperamenta i nemirnog d
 
 ###Kafa sa mlekom 
 Porodični ste i pomalo nesigurni. Imate potrebu da uskraćujete sebi neke užitke, iz straha od osude sredine. Vrlo Vam je bitno šta drugi misle o Vama. Odani ste i posvećni drugima, ali se uvek trudite da izbegnete direktne sukobe i rasprave. 
+
 ###Kafa sa šlagom 
 Vi ste rođeni glumci i od svega u životu želite da pravite senzaciju. Ne volite jednostavnost i rutinu. Želite da budete posebni. Kreativni ste i nadareni, ali u tome ponekad preterujete time što ističete svoju različitost. Volite duboke rasprave.
+
 ###Nes kafa  
 Vi volite da uživate u životu i koristite svaki trenutak da udovoljite sebi. Optimistični ste i ponekad suviše intenzivni. U društvu ste omiljeni.  
 
