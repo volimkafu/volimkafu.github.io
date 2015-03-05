@@ -1,10 +1,10 @@
 ---
 layout: post
 author: Lu Salome
-category: Kafa otkriva Vaš karakter
-title: 10 zanimljivih činjenica
+category: kofein 
+title: Kafa otkriva Vaš karakter
 tags: kafa zanimljivo
-image: /img/blog/cinjenica-o-kafi.jpg
+image: /img/blog/omiljena-kafa.jpg
 ---
 
 ##Vaša omiljena kafa otkriva Vaš karakter
