@@ -442,4 +442,7 @@ h1, h2, h3, h4, h5 {
   .global .masthead.segment .column {
     font-size: 0.7rem; }
   .global .masthead.segment .column p {
-    display: none; } }
+    display: none; }
+  .mobile-hide { display: none;}
+}
+  
