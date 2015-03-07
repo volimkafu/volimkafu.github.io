@@ -9,7 +9,7 @@ image: /img/blog/lekovitost-kafe-volim-kafu.jpg
 
 ##LEKOVITOST KAFE
 
-•	Naučno je dokazano da je kafa:
+#####Naučno je dokazano da je kafa:
 
   - dobar stimulans nervnog sistema, naročito pažnje i pamćenja,
   - pojačava potrošnju energije i utiče na razgradnju masnoća,
@@ -17,7 +17,7 @@ image: /img/blog/lekovitost-kafe-volim-kafu.jpg
   - kofein ima pozitivno dejstvo kod stvaranja supstance slične vitaminu B koja utiče na pamćenje,
   - smanjuje glavobolju.
 
-•	Lekovita svojstva kafe:
+#####Lekovita svojstva kafe:
 
   - podstiče dobro raspoloženje,
   - otklanja sanjivost,
