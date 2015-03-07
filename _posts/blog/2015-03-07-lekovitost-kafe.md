@@ -3,7 +3,7 @@ layout: post
 author: Lu Salome
 category: kofein ishrana  
 title: LEKOVITOST KAFE
-tags: kafa zanimljivo zdravlje glavna
+tags: kafa zanimljivo zdravlje glavni
 image: /img/blog/lekovitost-kafe-volim-kafu.jpg
 ---
 
